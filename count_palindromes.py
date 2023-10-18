@@ -25,3 +25,6 @@ def count_palindromes(s):
 
 # time complexity O(n^2)
 # space complexity is O(1)
+
+
+print("this is a long code prosper, I believe you are counting the palindromes")
