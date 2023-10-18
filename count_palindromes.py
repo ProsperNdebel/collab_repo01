@@ -28,3 +28,10 @@ def count_palindromes(s):
 
 
 print("this is a long code prosper, I believe you are counting the palindromes")
+
+
+def print_letters(mel):
+    res = []
+    for letters in mel:
+        res.append(letters)
+    return res
